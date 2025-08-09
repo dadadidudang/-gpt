@@ -1,0 +1,9 @@
+{
+  "name": "꿈빛파티시엘노트",
+  "short_name": "파티시엘노트",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffafc",
+  "theme_color": "#ff6fa5",
+  "icons": []
+}
